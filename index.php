@@ -10,7 +10,7 @@
         
         
         <?php
-        // put your code here Also another change here
+        // put your code here Also another change here Change 2
         include 'connect.php';
         
         $query = "SELECT * FROM posts ORDER BY id DESC";
